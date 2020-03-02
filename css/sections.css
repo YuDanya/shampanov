@@ -1,0 +1,13 @@
+.content {
+  margin-top : 100px;
+  width : 1200px;
+  height : 800px;
+  margin-left : 300px;
+  display : block;
+}
+.content-name {
+  text-align : center;
+  font-size : 30px;
+  border-bottom : 2px solid black;
+  margin-bottom : 10px;
+}
